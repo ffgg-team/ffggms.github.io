@@ -6,8 +6,8 @@
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.ffggwj.cn"
+    "name": "音乐网",
+    "link": "https://music.ffggwj.cn/"
   },
   {
     "icon": "Compass",
@@ -15,8 +15,8 @@
     "link": "https://www.ffggwj.cn/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://yd.ffggwj.cn/"
-  },
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.imsyy.top/"
+  }
 ]
