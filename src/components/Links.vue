@@ -71,6 +71,7 @@ const siteIcon = {
   Fire,
   LaptopCode,
   youtube,
+  mihoyoemoji,
 };
 
 // 链接跳转
